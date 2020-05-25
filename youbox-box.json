@@ -1,0 +1,11 @@
+{
+  "ignore": [
+    "README.md",
+    "test/.gitkeep"
+  ],
+  "commands": {
+    "Compile": "youbox compile",
+    "Migrate": "youbox migrate",
+    "Test contracts": "youbox test"
+  }
+}
